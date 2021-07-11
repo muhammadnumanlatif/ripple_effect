@@ -16,7 +16,7 @@ Wrap it in an InkWell widget to manage tap callbacks and ripple animations.
   </tr>
   <tr>
     <td><img src="Screenshot_1626002876.png" width=270 height=480></td>
-    <td><img src="Screenshot_1626002876.png" width=270 height=480></td>
+    <td><img src="Screenshot_1626002880.png" width=270 height=480></td>
  
   </tr>
  </table>
